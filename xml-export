@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+puts 'Running XML Export'
+exec('ruby bin/drupal6-to-disqus-xml.rb')

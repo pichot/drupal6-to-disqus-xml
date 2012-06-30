@@ -1,0 +1,7 @@
+# Fill in your database credentials and rename this file to config
+
+host: DB_HOST
+port: DB_PORT
+database: DB_NAME
+user: DB_USER
+password: DB_PASS
